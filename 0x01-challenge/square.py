@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+"""class to find area and per of a square."""
 
 
 class square():
